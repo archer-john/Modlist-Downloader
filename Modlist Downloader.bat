@@ -81,7 +81,7 @@ echo.
 echo  Installing to: !MODS_DIR!
 echo.
 cd /d "!MODS_DIR!"
-set modAmount=148
+set modAmount=153
 set "fileName[1]=accessories-neoforge-1.1.0-beta.53-1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/gahvznopeykflb3kere1b/accessories-neoforge-1.1.0-beta.53-1.21.1.jar?rlkey=j1vol7dpzx9dvddg4kr83juv0&st=rn1s5v36&dl=1"
  
@@ -359,8 +359,8 @@ set "modURL[93]=https://www.dropbox.com/scl/fi/1s2jj3bc5fhj5ipnrnoux/kotlinforfo
 set "fileName[94]=KotlinLangForge-2.12.1-k2.4.0-3.0-neoforge.jar"
 set "modURL[94]=https://www.dropbox.com/scl/fi/j9adieh79gql7goswr86l/KotlinLangForge-2.12.1-k2.4.0-3.0-neoforge.jar?rlkey=tpuqzeicv1uqemg388ywdzolp&st=dwmrm4mc&dl=1"
  
-set "fileName[95]=L_Ender-s-Cataclysm-1.21.1-3.30.jar"
-set "modURL[95]=https://www.dropbox.com/scl/fi/hfeufz2o9x6tmv2gx8pmi/L_Ender-s-Cataclysm-1.21.1-3.30.jar?rlkey=7iw82gtr6vbng8ed3vdz63l9m&st=h50oa9uf&dl=1"
+set "fileName[95]=L_Ender's Cataclysm 1.21.1-3.31.jar"
+set "modURL[95]=https://www.dropbox.com/scl/fi/btz4s3zf47ja21yeh7nf6/L_Ender-s-Cataclysm-1.21.1-3.31.jar?rlkey=hs4ovq9wnrktf1byzo2sv42p2&st=4dejarm6&dl=1"
  
 set "fileName[96]=lendersdelight-1.21.1-1.0.10a.jar"
 set "modURL[96]=https://www.dropbox.com/scl/fi/jx6d467zkrikfyoda8ehp/lendersdelight-1.21.1-1.0.10a.jar?rlkey=12i6p49v8l99mapekux77y4ni&st=flllf54g&dl=1"
@@ -520,6 +520,22 @@ set "modURL[147]=https://www.dropbox.com/scl/fi/zu6piqqz2hbplu1dx9h5v/waystoness
  
 set "fileName[148]=woodworks-1.21.1-4.0.2.jar"
 set "modURL[148]=https://www.dropbox.com/scl/fi/f4605o4o5x5ckwm7kqlbe/woodworks-1.21.1-4.0.2.jar?rlkey=5qqtfxgldvez61364rc7djufa&st=ijn2uulv&dl=1"
+
+set "fileName[149]=logbegone-neoforge-1.21.1-1.0.3"
+set "modURL[149]=https://www.dropbox.com/scl/fi/5f59n6f1kf3hko6j1auq5/logbegone-neoforge-1.21.1-1.0.3.jar?rlkey=3q45j8adiksey9wyuv45z18th&st=4zh5jlei&dl=1"
+
+set "fileName[150]=polymorph-neoforge-1.1.0+1.21.1.jar"
+set "modURL[150]=https://www.dropbox.com/scl/fi/81x05l9bad63s9u3a4fwo/polymorph-neoforge-1.1.0-1.21.1.jar?rlkey=i8pyyi14tt0vbsqpye81pvrq8&st=39ntlfz8&dl=1"
+
+set "fileName[151]=plasmovoice-neoforge-1.21.1-2.1.10"
+set "modURL[151]=https://www.dropbox.com/scl/fi/aprao7ekk1oi5fav69ju3/plasmovoice-neoforge-1.21.1-2.1.10.jar?rlkey=7ieosbzn21s80d0delkn9j6ux&st=hg7hk27a&dl=1"
+
+set "fileName[152]=chunksfadein-neoforge-3.0.23-1.21"
+set "modURL[152]=https://www.dropbox.com/scl/fi/i5ha0onj9rnjw1qfy734m/chunksfadein-neoforge-3.0.23-1.21.jar?rlkey=t3y4bs8uhus2k2k2r55u9e7eh&st=bzfdswzi&dl=1"
+
+set "fileName[153]=pv-addon-soundphysics-1.1.2"
+set "modURL[153]=https://www.dropbox.com/scl/fi/dulv2me1pu3ftopb6lnp6/pv-addon-soundphysics-1.1.2.jar?rlkey=w6sv4ysck3lr9nos68tirbswy&st=jhi1k2d9&dl=1"
+
 set DEL_COUNT=2
  
 set "DEL_FILE[1]=sample1.jar"
