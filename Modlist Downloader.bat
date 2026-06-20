@@ -625,6 +625,9 @@ set "modURL[181]=https://www.dropbox.com/scl/fi/763m9hi55ewlamr6fenfe/lithostitc
 set "fileName[182]=create-enchantment-industry-2.4.2.jar"
 set "modURL[182]=https://www.dropbox.com/scl/fi/xyfcx9ohftdyzth42i360/create-enchantment-industry-2.4.2.jar?rlkey=8nx0dl7k3naaemkw30k5o2blm&st=4dz51avo&dl=1"
 
+set "fileName[183]=createenchantablemachinery-3.6.0-mc1.21.1-neoforge.jar"
+set "modURL[183]=https://www.dropbox.com/scl/fi/8i1w24w4pgby50hf4e0lm/createenchantablemachinery-3.6.0-mc1.21.1-neoforge.jar?rlkey=a8podzc7wmk6a25r0c00hwzdh&st=36h1dk07&dl=1"
+
 set DEL_COUNT=2
  
 set "DEL_FILE[1]=sample1.jar"
