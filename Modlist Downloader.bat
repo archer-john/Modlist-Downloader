@@ -83,7 +83,7 @@ echo.
 
 cd /d "!MODS_DIR!"
 
-set modAmount=181
+set modAmount=182
 set "fileName[1]=accessories-neoforge-1.1.0-beta.53-1.21.1.jar"
 set "modURL[1]=https://www.dropbox.com/scl/fi/gahvznopeykflb3kere1b/accessories-neoforge-1.1.0-beta.53-1.21.1.jar?rlkey=j1vol7dpzx9dvddg4kr83juv0&st=rn1s5v36&dl=1"
  
@@ -623,7 +623,7 @@ set "fileName[181]=lithostitched-1.7.9-neoforge-21.1.jar"
 set "modURL[181]=https://www.dropbox.com/scl/fi/763m9hi55ewlamr6fenfe/lithostitched-1.7.9-neoforge-21.1.jar?rlkey=slf272m8p5v7iazi0g3rlt2kx&st=su9thxq0&dl=1"
 
 set "fileName[182]=create-enchantment-industry-2.4.2.jar"
-set "modURL[181]=https://www.dropbox.com/scl/fi/xyfcx9ohftdyzth42i360/create-enchantment-industry-2.4.2.jar?rlkey=8nx0dl7k3naaemkw30k5o2blm&st=4dz51avo&dl=1"
+set "modURL[182]=https://www.dropbox.com/scl/fi/xyfcx9ohftdyzth42i360/create-enchantment-industry-2.4.2.jar?rlkey=8nx0dl7k3naaemkw30k5o2blm&st=4dz51avo&dl=1"
 
 set DEL_COUNT=2
  
